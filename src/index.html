@@ -1,14 +1,42 @@
 <!DOCTYPE html>
 <html>
+  <!--Cabecera-->
   <head>
     <meta charset="utf-8">
-    <title>Caesar Cipher</title>
+    <title>Encrypted Army of Perú</title>
     <link rel="stylesheet" href="style.css" />
+    <link href="https://fonts.googleapis.com/css?family=Comfortaa|arial" rel="styleheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="escudo.png">
   </head>
+
   <body>
-    <div id="root">
-      <h1>Hello world!</h1>
+    
+    <!--Cabecera del cifrado-->
+    <section id="content-cipher" class="content">
+
+      <header class="content-header">
+        <h1>Cifrado Comando "Honor y Gloria"</h1>
+        <p><i>Encriptar y Desencriptar Mensajes Claves</i></p>
+      </header>
+
+      <!--Enlaces de conexión para codificar y descodificar-->
+
+    <div id="encode-decode"> class="link-code">
+      <a href="#" id="link-encode" class="link_active">Encriptar</a>
+      <a href="#" id="link-decode">Desencriptar</a>
     </div>
+
+    <!--Caja de codificado-->
+
+    div id="content-msg-encode" class="msg-style display_block">
+    <p>Ingrese su Mensaje:</p>
+    <textarea id="box-msg-encode" class="box-msg-style" placeholder="Ingrese su Mensaje..."></textarea>
+    <div class="content-offset">
+      <label class="label">Ingrese N° de Desplazamiento</label>
+      <input type="number" id="n_offset_e" class="n_offset_style">
+    </div>
+    <button id="btn_encode" class=
     <script src="index.js" type="module"></script>
   </body>
 </html>
