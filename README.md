@@ -64,6 +64,12 @@ para el encriptado de los mensajes que no deben tener dominio público.
 
 ![image](https://user-images.githubusercontent.com/90290910/141229946-08ef230f-254f-456a-8654-1e6530348fc6.png)
 
+Para la investigación se realizo la busqueda en las paginas de las fuerzas armadas para tener conocimiento de una correcta 
+implementación de la aplicación y desarrollo del proyecto.
+
+Fuentes:
+https://www.ejercito.mil.pe/
+https://www.ccffaa.mil.pe/
 
 ## 5. Criterios de aceptación mínimos del proyecto
 
