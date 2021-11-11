@@ -1,0 +1,181 @@
+* {
+    margin: 3;
+    padding: 3;
+}
+
+body {
+    background-image: url("ejercito.jpg");
+}
+.saludarUsario {
+  font-family: 'Comic Sans', cursive;
+font-size: 20px;
+text-align: center;
+color: #0B3B39;
+font-weight: 200;
+}
+
+.content-header h1 {
+    font-family: 'Brush Script', cursive;
+    font-size: 42px;
+    text-align: center;
+    color: #0B3B39;
+    font-weight: 200;
+}
+
+.content-header p {
+    text-align: center;
+    font-family: Monaco;
+    font-size: 30px;
+    color: #0B3B39;
+}
+
+.content {
+    width: 30%;
+    border-radius: 50px;
+    padding: 35px;
+    border: 3px solid #6E6E6E;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color: #BDBDBD;
+    box-shadow: 5px 5px 5px 5px #6E6E6E;
+}
+
+.n_offset_style {
+    width: 100px;
+}
+
+.content-offset {
+    margin-top: 10px;
+}
+
+.label {
+    font-size: 20px;
+    font-family: arial;
+    color: #0B3B39;
+}
+
+.indication {
+    font-size: 10px;
+}
+
+.link-code {
+    width: 100%;
+    font-size: 20px;
+    font-family: arial;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.link-code a {
+    text-decoration: none;
+    text-align: center;
+    color: #0B3B39;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.link-code a:hover {
+    border-bottom: 2px solid;
+    color: #848484;
+    padding-bottom: 5px;
+    transition: 0.3s;
+}
+
+.link_active {
+    border-bottom: 2px solid #6E6E6E;
+    color: #6E6E6E;
+    padding-bottom: 5px;
+}
+
+.msg-style {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.msg-style p {
+    font-family: arial;
+    color: #6E6E6E;
+    margin-bottom: 10px;
+}
+
+.box-msg-style {
+    width: 100%;
+    height: 50px;
+    resize: none;
+    outline: 0px;
+}
+
+.btn-code {
+    border: 0px;
+    width: 100px;
+    height: 50px;
+    background-color: #6E6E6E;
+    border-radius: 50px;
+    margin-top: 10px;
+    color: #FFFFFF;
+    font-size: 15px;
+    box-shadow: 3px 3px 7px 1px #0B3B2E;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.btn-code:hover {
+    background-color: #0B614B;
+}
+
+.btn-code:focus {
+    outline: 0px;
+}
+
+.btn_reload {
+    border: 0px;
+    width: 100px;
+    height: 50px;
+    background-color: #6E6E6E;
+    border-radius: 50px;
+    margin-top: 15px;
+    color: #fff;
+    font-size: 15px;
+    box-shadow: 3px 3px 5px 1px #0B614B;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.btn_reload:hover {
+    background-color: #0B614B;
+}
+
+.btn_reload:focus {
+    outline: 0px;
+}
+
+.msg-ckeck {
+    width: 100%;
+    height: auto;
+    min-height: 50px;
+    background-color: #DADADA;
+    margin-top: 30px;
+    padding: 10px;
+    box-shadow: 2px 2px 5px 1px #898989;
+}
+
+.msg-style p {
+    color: #666;
+}
+
+.display_none {
+    display: none;
+}
+
+.display_block {
+    display: block;
+}
+
+@media (max-width:767px) {
+    .content {
+        width: 50%;
+    }
+}
