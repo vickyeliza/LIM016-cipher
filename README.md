@@ -3,8 +3,9 @@
 ## Índice
 
 * [1. Introducción](#1-Introducción)
-* [9. Checklist](#9-checklist)
 * [2. Resumen del proyecto](#2-Resumen del proyecto)
+* [2. Resumen del proyecto](#2-Resumen del proyecto)
+* [9. Checklist](#9-checklist)
 * [3. Planificación](#3-Planificación)
 * [4. Desarrollo del Proyecto - Definición](#4-Desarrollo del Proyecto)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
