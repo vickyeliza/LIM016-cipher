@@ -4,7 +4,6 @@
 
 * [1. Introducción](#1-Introducción)
 * [2. Resumen del Proyecto](#2-resumen)
-* [9. Checklist](#9-checklist)
 * [3. Planificación](#3-Planificación)
 * [4. Desarrollo del Proyecto - Definición](#4-Desarrollo del Proyecto)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
