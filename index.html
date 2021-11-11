@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Ejercito del Perú</title>
+    <link rel="stylesheet" href="style.css" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=5.0">
+    <link rel="graf" type="image/x-graf" href="escudo.png">
+</head>
+
+<body>
+
+    <!--CONTENEDOR DEL CIFRADO-->
+    <section id="contenedor-cifrado" class="content">
+        <!--CABECERA-->
+        <header class="content-header">
+            <h1>Cifrado Militar</h1>
+            <p><i>Ingrese mensajes para el cifrado militar</i></p>
+        </header>
+
+        <!--ENLACES CODIFICADO Y DECODIFICADO-->
+
+        <div id="encode-decode" class="link-code">
+            <a href="#" id="link-encode" class="link_active">CIFRAR</a>
+            <a href="#" id="link-decode">DESCIFRAR</a>
+        </div>
+
+        <!--CAJA CODIFICADO-->
+
+        <div id="content-msg-encode" class="msg-style display_block">
+            <p>Ingresar Mensaje:</p>
+            <textarea id="box-msg-encode" class="box-msg-style" placeholder="Escribir mensaje..."></textarea>
+            <div class="content-offset">
+                <label class="label">N° Clave</label>
+                <input type="number" id="n_offset_e" class="n_offset_style">
+            </div>
+            <button id="btn_encode" class="btn-code">CIFRAR</button>
+            <div id="msg-encode" class="msg-ckeck">
+                <p id="msg-encode-check"></p>
+            </div>
+            <button onclick="location.reload();" class="btn_reload">ELIMINAR</button>
+        </div>
+
+        <!--CAJA DECODIFICADO-->
+
+        <div id="content-msg-decode" class="msg-style display_none">
+            <p>Ingresar mensaje</p>
+            <textarea id="box-msg-decode" class="box-msg-style" placeholder="Escribir mensaje..."></textarea>
+            <div class="content-offset">
+                <label class="label">N° Clave</label>
+                <input type="number" id="n_offset_d" class="n_offset_style">
+            </div>
+            <button id="btn_decode" class="btn-code">DESCIFRAR</button>
+            <div id="msg-decode" class="msg-ckeck">
+                <p id="msg-decode-check"></p>
+            </div>
+            <button onclick="location.reload();" class="btn_reload">Limpiar</button>
+        </div>
+    </section>
+
+    <!--¡¡¡¡¡¡ESTE ARCHIVO NO SE TOCA!!!!!-->
+    <div id="root"></div>
+    
+    <script src="index.js" type="module" ></script>
+    
+</body>
+
+</html>
