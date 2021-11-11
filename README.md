@@ -39,7 +39,11 @@ Aplicación Trello
 
 Aplicación Figma
 ![image](https://user-images.githubusercontent.com/90290910/141223976-3884002a-6a8b-409c-bd1a-137dc65bbec3.png)
+![image](https://user-images.githubusercontent.com/90290910/141224593-711464aa-32fd-46cc-b022-bb8b4f2f2a74.png)
 ![image](https://user-images.githubusercontent.com/90290910/141224246-e8bc87c1-70e2-4b31-bfc7-71e587291235.png)
+![image](https://user-images.githubusercontent.com/90290910/141224728-ededc0d1-27b0-425b-ab69-ebd32d7e116b.png)
+
+
 
 
 - [ ] **Uso de selectores de CSS**
