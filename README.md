@@ -100,7 +100,7 @@ personal militar pueda cifrar y descifrar un mensaje indicando el número de des
 No necesita una preparación o especificaciones epseciales ya que esta desarrollada para su facil acceso y que todo el personal
 autorizado pueda hacer el cifrado y descifrado de los mensajes que se deseen mantener resguardados.
 
-## 7. Interfaz de Uusario
+## 7. Interfaz de Usuario
 
 La interfaz permite al usuario:
 
