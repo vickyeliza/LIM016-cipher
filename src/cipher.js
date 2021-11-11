@@ -1,5 +1,6 @@
-window.cipher = {
-    encode: (string, offset) => {
+
+const cipher = {
+    encode: (offset, string) => {
         //mensaje recibido
         let msgCipher = "";
         for (let i = 0; i < string.length; i++) {
@@ -9,7 +10,7 @@ window.cipher = {
                     let textChar = (string.charCodeAt(i) - 65 + parseInt(offset)) % 26 + 65;
                     msgCipher += String.fromCharCode(textChar);
                 } else if (string.charCodeAt(i) >= 97 && string.charCodeAt(i) <= 122) {
-                    textChar = (string.charCodeAt(i) - 97 + parseInt(offset)) % 26 + 97;
+                   let textChar = (string.charCodeAt(i) - 97 + parseInt(offset)) % 26 + 97;
                     msgCipher += String.fromCharCode(textChar);
                 }
             } else {
@@ -18,7 +19,7 @@ window.cipher = {
         }
         return msgCipher;
     },
-    decode: (string, offset) => {
+    decode: (offset, string) => {
         //mensaje recibido
         let msgDecipher = "";
 
@@ -48,3 +49,4 @@ window.cipher = {
         return msgDecipher;
     }
 }
+export default cipher

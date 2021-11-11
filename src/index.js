@@ -1,3 +1,4 @@
+//import cipher from "./cipher"
 window.onload = () => {
 
     /*activado y desactivado de los enlaces de cada pestaña*/
