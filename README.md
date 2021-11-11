@@ -6,7 +6,7 @@
 * [2. Resumen del Proyecto](#2-resumen)
 * [3. Planificación](#3-Planificación)
 * [4. Desarrollo del Proyecto](#4-Desarrollo-del-Proyecto)
-* [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
+* [5. Definición del Producto](#5-Definición-del-Producto)
 * [6. Hacker edition](#6-hacker-edition)
 * [7. Consideraciones técnicas](#7-consideraciones-técnicas)
 * [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)
@@ -45,7 +45,7 @@ Aplicación Figma
 ![image](https://user-images.githubusercontent.com/90290910/141224728-ededc0d1-27b0-425b-ab69-ebd32d7e116b.png)
 
 
-## 4. Desarrollo del Proyecto - Definición del Porblema
+## 4. Desarrollo del Proyecto - Definición del Problema
 
 Se ha elaborado el proyecto teniendo en cuenta que este cifrado era utilizado para poder proteger las conversaciones y mensajes 
 militares. Teniendo esto en conocimiento se penso el desarrollar una aplicación que pueda realizar este mismo objetivo, es decir
@@ -71,20 +71,23 @@ Fuentes:
 https://www.ejercito.mil.pe/
 https://www.ccffaa.mil.pe/
 
-## 5. Criterios de aceptación mínimos del proyecto
+Usuarios del Producto
+Se ha pensado en tener como usuario del proyecto al personal de las Fuerzas Armadas y personal que tenga conocimiento y manejo de los
+servicios de gobierno.
+Por ser de manejo secreto debe mantenerse la confidencialidad del mismo y solo ser utilizado por personal autorizado.
 
-Usa este alfabeto simple (solamente mayúsculas y sin ñ):
+## 5. Definición del Producto
 
-* A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
-### Definición del producto
+Dentro de los objetivos y la relación del producto con el usuario: La aplicación podría ser parte de una serie de aplicaciónes de
+manejo insitucional, además de poder crear un aplicativo que pueda ayudar a la protección del Estado nacional.
+Se ha tenido que desarrollar el aplicativo pensando en la protección y estricto confidencial, para el desarrollo del proyecto se tuvo 
+esto en consideración, y manteniendo la temática institucional que caracteriza todos los canales digitales con los que cuenta el
+Ejército del Peru´y que el personal no se sienta en un canal distinto de la institución.
+Además de mantener un sistema de facil uso y encuadrado que permite su facil visibilidad en todos los dispositivos moviles, android, ios, pc y laptops en general.
 
-En el README.md, cuéntanos cómo pensaste en los usuarios y cuál fue tu proceso
-para definir el producto final a nivel de experiencia y de interfaz.
+![image](https://user-images.githubusercontent.com/90290910/141233278-94cb5f3b-1422-4c40-a151-7568e54056d9.png)
 
-* Quiénes son los principales usuarios de producto.
-* Cuáles son los objetivos de estos usuarios en relación con tu producto.
-* Cómo crees que el producto que estás creando está resolviendo sus problemas.
 
 ### Interfaz de usuario (UI)
 
