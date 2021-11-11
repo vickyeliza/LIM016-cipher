@@ -36,6 +36,7 @@ una temática es libre. Pero que pueda tener una utilidad para una organización
 Para este proyecto se ha utilizado herramientas de aprendisaje y tambien se ha podido utilizar herramientas de planificación, como Trello, Kambam, para elaborar un prototipado y planificación se ha utilizado Figma.
 
 Aplicación Trello
+![image](https://user-images.githubusercontent.com/90290910/141225365-289c0a0c-91d4-41a3-99f0-e5c7a1484546.png)
 
 Aplicación Figma
 ![image](https://user-images.githubusercontent.com/90290910/141223976-3884002a-6a8b-409c-bd1a-137dc65bbec3.png)
