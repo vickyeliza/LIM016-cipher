@@ -2,10 +2,10 @@
 
 ## Índice
 
-* [1. Introducción(#1-Introducción)
-* [2. Resumen del proyecto (#1-Resumen del proyecto)
-* [3. Planificación (#1-Planificación)
-* [4. Desarrollo del Proyecto - Definición (#1-Desarrollo del Proyecto)
+* [1. Introducción](#1-Introducción)
+* [2. Resumen del proyecto] (#1-Resumen del proyecto)
+* [3. Planificación] (#1-Planificación)
+* [4. Desarrollo del Proyecto - Definición] (#1-Desarrollo del Proyecto)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
 * [6. Hacker edition](#6-hacker-edition)
 * [7. Consideraciones técnicas](#7-consideraciones-técnicas)
