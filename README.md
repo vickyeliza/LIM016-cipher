@@ -9,9 +9,8 @@
 * [5. Definición del Producto](#5-Definición-del-Producto)
 * [6. Funcionalidad](#6-Funcionalidad)
 * [7. Interfaz de Usuario](#7-interfaz)
-* [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)
-* [9. Checklist](#9-checklist)
-
+* [8. Enlace](#8-link)
+* 
 ***
 
 ## 1. Introducción
@@ -109,3 +108,6 @@ Insertar un mensaje (texto) que queremos cifrar.
 Ver el resultado del mensaje cifrado.
 Insertar un mensaje (texto) a descifrar.
 Ver el resultado del mensaje descifrado.
+
+## 8. Enlace
+
