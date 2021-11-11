@@ -88,6 +88,8 @@ Además de mantener un sistema de facil uso y encuadrado que permite su facil vi
 
 ![image](https://user-images.githubusercontent.com/90290910/141233278-94cb5f3b-1422-4c40-a151-7568e54056d9.png)
 
+![image](https://user-images.githubusercontent.com/90290910/141233401-6bf9b06d-7971-4584-b1c3-a9ccd072ba52.png)
+
 
 ### Interfaz de usuario (UI)
 
