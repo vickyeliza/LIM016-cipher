@@ -3,7 +3,7 @@
 ## Índice
 
 * [1. Introducción](#1-Introducción)
-* [9. Resumen del Proyecto](#2-resumen)
+* [2. Resumen del Proyecto](#2-resumen)
 * [9. Checklist](#9-checklist)
 * [3. Planificación](#3-Planificación)
 * [4. Desarrollo del Proyecto - Definición](#4-Desarrollo del Proyecto)
