@@ -5,7 +5,7 @@
 * [1. Introducción](#1-Introducción)
 * [2. Resumen del Proyecto](#2-resumen)
 * [3. Planificación](#3-Planificación)
-* [4. Desarrollo del Proyecto - Definición](#4-Desarrollo del Proyecto)
+* [4. Desarrollo del Proyecto](#4-Desarrollo-del-Proyecto)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
 * [6. Hacker edition](#6-hacker-edition)
 * [7. Consideraciones técnicas](#7-consideraciones-técnicas)
